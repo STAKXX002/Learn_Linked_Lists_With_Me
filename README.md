@@ -4,7 +4,7 @@ A collection of **menu-driven C programs** to learn and practice linked lists â€
 
 ---
 
-## ğŸ“ Programs Included
+##  Programs Included
 
 | File | Linked List Type | Features |
 |------|-----------------|----------|
@@ -15,7 +15,7 @@ A collection of **menu-driven C programs** to learn and practice linked lists â€
 
 ---
 
-## âš™ï¸ How to Compile and Run
+##  How to Compile and Run
 
 Using **GCC** on Linux / macOS / Windows (with MinGW):
 
@@ -25,3 +25,4 @@ gcc doubly_circular_linked_list.c -o doubly_circular_linked_list
 
 # Run
 ./doubly_circular_linked_list
+
